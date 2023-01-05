@@ -1,0 +1,15 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #efefef;
+  padding: 20px;
+}
+
+.todocomp{
+width: 55%;
+}
+.fromtodo{
+  width: 40%;
+}

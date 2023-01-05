@@ -1,0 +1,30 @@
+.form{
+  border-radius: 5px;
+}
+.inputContainer{
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.submitButton{
+  background-color: rgb(120, 120, 218);
+  border: none;
+  margin-top: 15px;
+  font-size: 18px;
+  padding: 10px 20px;
+  width: 100%;
+  border-radius: 5px;
+  color: #fff;
+
+}
+.input{
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+.label{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
